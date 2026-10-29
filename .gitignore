@@ -1,0 +1,27 @@
+# Operating System Files
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+.DS_Store
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Power BI temporary files
+*.pbix.temp
+*.pbit.temp
+*.pbiviz.temp
+
+# Editor & IDE directories
+.vscode/
+.idea/
+*.swp
+*~
+
+# Logs and databases
+*.log
